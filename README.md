@@ -9,6 +9,7 @@ This is the task given by Fetch Rewards for a job application.
  - Spring Boot
  - Maven Build
  - Apache Tomcat
+ - JDK V6 [required]
 
 ## Instructions
 
