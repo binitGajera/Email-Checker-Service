@@ -13,12 +13,12 @@ This is the task given by Fetch Rewards for a job application.
 ## Instructions
 
 To run the service, simply execute the jar given in the project, it contains all the required dependencies and would execute the server
-
-  java -jar ./emailChecker.jar
-  
+```
+java -jar ./emailChecker.jar
+```  
   
 The service would run on localhost and port would be 8080, so once it is started you can run it in the following manner
-
-  localhost:8080/testemail@gmail.com, test.email+spam@gmail.com, test.email@gmail.com
-  
+```
+localhost:8080/testemail@gmail.com, test.email+spam@gmail.com, test.email@gmail.com
+```  
 Here the list of emails will be passed after the "/" in the URL and the program will automatically display the requested result.
