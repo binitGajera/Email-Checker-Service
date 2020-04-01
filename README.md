@@ -7,7 +7,7 @@ This is the task given by Fetch Rewards for a job application.
 
  - Java
  - Spring Boot
- - Maven
+ - Maven Build
  - Apache Tomcat
 
 ## Instructions
