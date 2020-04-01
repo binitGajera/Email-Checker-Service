@@ -23,3 +23,5 @@ The service would run on localhost and port would be 8080, so once it is started
 localhost:8080/testemail@gmail.com, test.email+spam@gmail.com, test.email@gmail.com
 ```  
 Here the list of emails will be passed after the "/" in the URL and the program will automatically display the requested result.
+
+Few examples have been shown in the directory test_results for reference.
